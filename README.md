@@ -1,10 +1,28 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# MongoDB Commerce
+
+## 💻 Projeto
+
+Manipulação do banco de dados Mongo, inserção, exclusão, edição e alteração de documentos.
+
+## 🚀 Tecnologias
+> Este projeto foi desenvolvido com as seguintes tecnologias:
+
+- MongoDB
+- Docker
+
+## 📌 Habilidades
+
+> Neste projeto, desenvolvi as seguintes habilidades:
+
+- Operadores lógicos;
+- Remover documentos;
+- Consultas;
+- Updates Simples;
+- Updates complexos em arrays;
+
+## 💬 Contatos
+
+<div align="center" style="display: inline_block">
+  <a href="https://www.linkedin.com/in/lucas-da-cunha-moreti/" target="_blank"><img height="28rem" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href = "mailto:lucasdacunha00@gmail.com"><img height="28rem" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
